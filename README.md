@@ -5,3 +5,4 @@
   - [toolharbor.top](https://toolharbor.top)
   - [essay-tools.com](https://essay-tools.com)
   - [tk-emojis.com](https://www.tk-emojis.com)
+  - [Blur Image Tool](https://blurimg.net/)
